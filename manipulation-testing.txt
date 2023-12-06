@@ -1,0 +1,47 @@
+//Version 1 // Manipulation testing
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run? 
+2
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+wel
+Type the 2nd string:
+come
+Concatenated string is 'welcome'
+Type the 1st string (q - to quit):
+123425367ituyjhfgw
+Type the 2nd string:
+3425367ujyrhgfd
+Concatenated string is '123425367ituyjhfgw3425367ujyrhgfd'
+Type the 1st string (q - to quit):
+Hello          
+Type the 2nd string:
+World
+Concatenated string is 'Hello World'
+Type the 1st string (q - to quit):
+""
+Type the 2nd string:
+"Aloha"
+Concatenated string is '"""Aloha"'
+Type the 1st string (q - to quit):
+ariokjheurybnmklqdesmcsjfhtieyfgjouytew128oplmvdsuetrlghy45jfwggfjne2erfghmf
+Type the 2nd string:
+hello
+Concatenated string is 'ariokjheurybnmklqdesmcsjfhtieyfgjouytew128oplmvdsuetrlghy45jfwggfjne2erfghmfhello'
+Type the 1st string (q - to quit):
+OhMygod    
+Type the 2nd string:
+@$%^
+Concatenated string is 'OhMygod@$%^'
+Type the 1st string (q - to quit):
+Repeat
+Type the 2nd string:
+Repeat
+Concatenated string is 'RepeatRepeat'
+Type the 1st string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
